@@ -5,7 +5,7 @@ repository:
   name: org-settings
 
   # A short description of the repository that will show up on GitHub
-  description: Organisational settings
+  description: Organisational Settings
 
   # A URL with more information about the repository
   homepage: https://vikash-kothary.github.io/org-settings
